@@ -1,6 +1,8 @@
 ﻿https://github.com/okovtun/SPU_411_CS.git
 https://www.youtube.com/playlist?list=PLeqyOOqxeiIPexSX2PsGFotJ47ObDietB
 
+Field property:	https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/field
+
 TODO:
 1. В классе 'Point' реализовать метод Distance(), который возвращает расстояние до указанной точки;
 2. В Solution 'OOP' добавить проект 'Fraction', и в нем реализовать класс 'Fraction';

@@ -18,6 +18,7 @@ namespace OOP
 			point.X = 7;
 			point.Y = 8;
 			Console.WriteLine($"Properties: X = {point.X},Y = {point.Y}");
+			Console.WriteLine(Math.Sqrt(3));
 		}
 	}
 }
