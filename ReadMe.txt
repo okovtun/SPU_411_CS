@@ -4,6 +4,10 @@ https://www.youtube.com/playlist?list=PLeqyOOqxeiIPexSX2PsGFotJ47ObDietB
 Field property:	https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/field
 
 TODO:
+1. В иерархию геометрических фигур добавить Круг, и иерархию Треугольников;
+2. По необходимости создать и реализовать интерфейсы для круга и треугольников;
+
+DONE:
 1. В Академию добавить классы: 'Teacher' и 'Graduate';
 2. Создать группу, состоящую из пяти объктов (должны быть объекты всех классов),
    и вывести ее на экран;
